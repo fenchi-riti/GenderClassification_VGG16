@@ -1,3 +1,4 @@
+Project 1-IndonesiaAi
 # Klasifikasi Gender dari data Citra Wajah CELEBA menggunakan Algoritma Deep Learning
 Dataset: Data set yang digunakan adalah data gambar wajah celebA yang bisa didownload: https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 Tujuan: Membandingkan Model Deep Learning untuk klasifikasi gender dari dataset CELEBA
